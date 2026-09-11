@@ -1,0 +1,6 @@
+@R5.A._08_TD2_HostAddress = http://localhost:5138
+
+GET {{R5.A._08_TD2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
